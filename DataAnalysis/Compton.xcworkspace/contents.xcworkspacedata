@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:1-1&apos;-VBias/1-1&apos;-VBias.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/matteocapitani/Desktop/Universita&#x300;/3 Anno/Lab Nucleare&#x1f468;&#x1f3fc;&#x200d;&#x1f52c;/DataAnalysis/2-SamplingTime/2-ShapingTime.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/matteocapitani/Desktop/Universita&#x300;/3 Anno/Lab Nucleare&#x1f468;&#x1f3fc;&#x200d;&#x1f52c;/DataAnalysis/1-VBias/1-2&apos;-VBias.xcodeproj">
+   </FileRef>
+</Workspace>
